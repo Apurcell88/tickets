@@ -14,7 +14,7 @@ const ticketSchema = new Schema(
     active: Boolean,
   },
   {
-    timeStamps: True,
+    timeStamps: true,
   }
 );
 
